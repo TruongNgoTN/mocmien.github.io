@@ -1,0 +1,340 @@
+@media only screen and (max-width: 46.1875em) {
+    .footer__content {
+        display: flex;
+        flex-direction: column;
+    }
+}
+/* header */
+.header .banner__container {
+   
+}
+.nav_bar {
+    height: 10px;
+    background-color: #c7e0b7;
+}
+.banner__img {
+    width: 100%;
+}
+/* section */
+.slogan__container {
+    background-color: #F5F5F5;
+    margin: 0 0;
+    padding: 20px;
+    text-align: center;
+}
+.slogan {
+    background-color: white;
+    margin: 30px auto;
+    width: 70%;
+    border: 1px solid #c9c9c9;
+    border-radius: 10px;
+}
+.logo_slogan {
+    width: 50%;
+    margin: 10px auto;
+}
+.text_slogan {
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    padding: 10px;
+    color: #333;
+    font-style: italic;
+}
+
+/* congNgheChietXuatBaoChe */
+.congNgheChietXuatBaoChe {
+    margin: 50px 0;
+}
+.congNgheChietXuatBaoChe__heading {
+    color: green;
+    font-weight: bold;
+    text-align: center;
+    font-size: 2.4rem;
+    padding: 0 10px 10px 10px;
+    line-height: 2.8rem;
+}
+.congNgheChietXuatBaoChe__image {
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.congNgheChietXuatBaoChe__image-chung {
+    display: flex;
+    height: 280px;
+    padding: 10px;
+}
+.congNgheChietXuatBaoChe__image-1 {
+    width: 200px;
+}
+.congNgheChietXuatBaoChe__image-2 {
+    width: 350px;
+}
+.congNgheChietXuatBaoChe__image-3 {
+    width: 350px;
+}
+
+/* product */
+.product {
+    background-color: #F5F5F5;
+    padding: 20px 10px;
+    margin-top: 20px;
+}
+.product__heading {
+    color: green;
+    font-weight: 1,4;
+    text-align: center;
+    font-size: 2.4rem;
+    
+}
+.product__img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+.product-chung {
+    height: 333px;
+    width: 250px;
+    padding: 10px;
+}
+/* tinDung */
+.tinDung {
+    background-image: ;
+}
+
+.tinDung__heading {
+    text-align: center;
+    color: green;
+    font-style: bold;
+    line-height: 30px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 30px 10px 0 10px;
+    font-size: 2.4rem;
+}
+.tinDung__btn {
+    background-color: rgb(185, 14, 14);
+    color: white;
+    font-size: 1.6rem;
+    font-weight: 400;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    border: 1px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.tinDung__container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+}
+.tinDung__chung {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.tinDung__btn {
+    margin: 0 auto 10px auto;
+}
+.tinDung__img-chung {
+    width: 100%;
+    padding: 5px;   
+}
+.tinDung__hieuQua-img {
+    display: flex;
+    flex-direction: column;
+}
+
+/* feedback */
+.feedback {
+    background-color: #6cb043;
+    padding: 30px 0;
+}
+.feedback__heading {
+    color: white;
+    text-align: center;
+    padding: 0 10px 15px 10px;
+    font-size: 2.4rem;
+    line-height: 2.8rem;
+}
+.feedback__khachhang {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.feedback__khachhang-img {
+    width: 300px;
+    padding: 20px;
+}
+/* nhaPhanPhoi */
+.nhaPhanPhoi {
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+.nhaPhanPhoi__heading {
+    text-align: center;
+    color: #6cb043;
+    font-size: 1.2rem;
+    line-height: 4rem;
+}
+.nhaPhanPhoi__content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.nhaPhanPhoi__content-text {
+    padding: 15px;
+}
+.nhaPhanPhoi__content-text-lienHe li{
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: #333;
+}
+.nhaPhanPhoi__content-text ul {
+    padding: 0;
+    max-width: 400px;
+    
+}
+
+.nhaPhanPhoi__content-text li {
+    list-style-type: none;
+    font-size: 1.4rem;
+    line-height: 1.8rem;
+}
+.nhaPhanPhoi__content-text-thuong h3 {
+    color: rgb(185, 14, 14);
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+.nhaPhanPhoi__content-text-thuong li {
+    list-style:disc;
+    margin-left: 20px;
+    color: rgb(185, 14, 14);
+    font-weight: bold;
+    font-size: 1.6rem;
+}
+.nhaPhanPhoi__content-img {
+    text-align: center;
+}
+.nhaPhanPhoi__content-img-chung {
+    width: 350px;
+    padding: 10px;
+    
+}
+
+/* footer */
+.footer {
+   
+    
+}
+.footer__content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #529428;
+    padding: 20px;
+}
+.footer__content-item {
+    padding: 10px 40px;
+}
+.footer__heading {
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    color: white;
+}
+.footer__content-item h4 {
+    font-size: 1.6rem;
+    color: #f0f0f0;
+}
+.footer-list {
+    padding-left: 0;
+    list-style: none;
+}
+.footer-item a {
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+.footer__content-item-1 .footer-item {
+    font-size: 1.4rem;
+    color: white;
+    line-height: 2.4rem;
+}
+.footer__content-item-2 {
+    margin-left: 0;
+}
+.footer__content-item-2 .footer-item {
+    font-size: 1.6rem;
+    width: 5rem;
+}
+.footer-item-icon {
+    width: 100%;
+}
+.footer__bottom {
+    padding: 8px 0;
+    background-color: #F5F5F5;
+}
+.footer-text {
+    margin: 0;
+    text-align: center;
+    font-size: 1.2rem;
+    color: #737373;
+}
+.hotline-sdt {
+    font-size: 1.6rem;
+    margin: auto;
+    color: #f0f0f0;
+    background-color: #7a0e0e;
+    padding: 4px;
+    
+    border-radius: 20px;
+    position: fixed;
+    top: 0;
+    right: 10px;
+}
+/* .hotline {
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    bottom: 0;
+}
+.hotline ul {
+    display: flex;
+    justify-content: center;
+} */
+.hotline-item-zalo {
+    position: fixed;
+    bottom: 10px;
+    right: 70px;
+}
+.hotline-item-fb {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+.hotline ul li {
+    list-style-type: none;
+}
+.hotline-item-icon {
+    width: 50px;
+    
+}
+@media only screen and (min-width: 46.1875em) {
+    .nav_bar {
+        display: none;
+    }
+    
+    .hotline-item-zalo {
+        
+    }
+    .hotline-sdt {
+        top: 4px;
+        right: 4px;
+        font-size: 1.6rem;
+        padding: 8px;
+    }
+}
